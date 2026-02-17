@@ -6,7 +6,6 @@ GhostKVM is a software-based, cross-platform KVM solution that automatically swi
 
 ### 1. Prerequisites
 You need tools to send DDC/CI commands:
-- **Windows:** Download [MonitorControl CLI](https://github.com/the0neyouseek/MonitorControl) and place `monitorcontrol.exe` in the project folder.
 - **Linux:** Install ddcutil: `sudo apt install ddcutil`.
 
 ### 2. Install Dependencies
